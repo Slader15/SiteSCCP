@@ -1,11 +1,15 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
+@import url("styles/sccp.css");
+@import url("styles/rodapé.css");
 
 :root {
-    --cor-de-fundo: #ffffff;
+    --cor-de-fundo: #FFFFFF;
     --preto: #000000;
     --vermelho: #FF0000;
     --fonte-principal: "Poppings";
+    --branco: #FFFFFF;
+    --fonte-secundario: "Sans";
 }
 
 body {
